@@ -14,7 +14,11 @@ If you are developing a production application, we recommend using TypeScript wi
 ## Socials
 
 https://www.instagram.com/debuggingbros/ 
+
 https://www.facebook.com/profile.php?id=61576001369417 
+
 https://x.com/DebuggingBros 
+
 https://www.youtube.com/@DebuggingBros 
+
 https://debuggingbros.itch.io/ 
