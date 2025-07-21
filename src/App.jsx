@@ -9,6 +9,23 @@ function App() {
   return (
     <>
       <div>
+        <a href="https://www.instagram.com/debuggingbros/" target="_blank">
+          <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" className="logo" alt="Vite logo" />
+        </a>
+        <a href="https://www.facebook.com/profile.php?id=61576001369417" target="_blank">
+          <img src="https://cdn-icons-png.flaticon.com/512/174/174848.png" className="logo" alt="Vite logo" />
+        </a>
+        <a href="https://x.com/DebuggingBros" target="_blank">
+          <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" className="logo" alt="Vite logo" />
+        </a>
+        <a href="https://www.youtube.com/@DebuggingBros" target="_blank">
+          <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" className="logo" alt="Vite logo" />
+        </a>
+        <a href="https://debuggingbros.itch.io/" target="_blank">
+          <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" className="logo" alt="Vite logo" />
+        </a>
+      </div>
+      <div>
         <a href="https://vite.dev" target="_blank">
           <img src={viteLogo} className="logo" alt="Vite logo" />
         </a>
